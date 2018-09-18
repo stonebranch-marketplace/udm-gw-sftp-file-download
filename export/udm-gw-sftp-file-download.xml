@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-08-22 14:53:45" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.5.0.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><broadcast_cluster/><agent/><use_common_script>true</use_common_script><credentials/><icon_filesize>2656</icon_filesize><icon>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</icon><icon_date_created>2017-08-18 14:06:45</icon_date_created><description>UDM Gateway SFTP Download a File</description><sys_updated_on>2018-08-22 14:52:21</sys_updated_on><agent_var/><icon_filename>udmg5.png</icon_filename><sys_id>ae4a7cc6fd644e458c1326b72e48c8b7</sys_id><output_return_text/><sys_updated_by>ccocksedge</sys_updated_by><variable_prefix>udmg</variable_prefix><sys_created_on>2017-08-18 14:06:45</sys_created_on><script_windows/><credentials_var_check>false</credentials_var_check><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><agent_var_check>false</agent_var_check><sys_created_by>ccocksedge</sys_created_by><output_return_nline>100</output_return_nline><output_return_sline>1</output_return_sline><exit_code_text/><runtime_dir/><output_type>1</output_type><desktop_interact>false</desktop_interact><output_return_type>6</output_return_type><script_unix/><output_return_file/><run_as_sudo>false</run_as_sudo><script>#!/opt/universal/python3.6/bin/python3
+# --
+#         Origins: Stonebranch
+#          Author: Colin Cocksedge colin.cocksedge@stonebranch.com
+#            Date: 08-AUG-2018
+#
+#    Copyright (c) Stonebranch, 2018.  All rights reserved.
+#
+#         Purpose : Universal Task UDMG Trading Partner SFTP Download
+#
+version = "2.0"
+#           Version History:    2.0     CCO     08-AUG-2018      V2 Accomodates Latest Universal Task Template / Requires V11 of MFT Server.  
+# --
+
+# -- Main Logic Function
+def main():
+    ScriptSetup()                                               # -- Import Required Modules, Setup Logging Format, Set Variables 
+    UdmgLogon()                                                 # -- Logon to UDMG server
+    UdmgCreateTrigger()                                         # -- Create Temporary UDM Gateway Trigger
+    UdmgRunTrigger()                                            # -- Run Temporary UDM Gateway Trigger
+    UdmgGetStatus()                                             # -- Get Temporary UDM Gateway Trigger Status / Delete Temp Trigger / Retrieve Log
+    UdmgLogoff()                                                # -- Close UDM Gateway Session
+# --
+
+# -- Import Required Modules, Setup Logging Format, Set Variables 
+def ScriptSetup():
+    # -- Import required python modules 
+    import argparse, logging, sys, requests, uuid, time, datetime, json
+    global argparse, logging, sys, requests, uuid, time, datetime, json
+    # -- Setup LogDate
+    global log_date
+    log_date = json.dumps(datetime.datetime.now().isoformat())
+    # -- Set Variables from Universal Task Form or Command Line Input
+    parser=argparse.ArgumentParser(description='Purpose : Universal Task UDMG Trading Partner SFTP Download')
+    # ## --&gt; Capture Universal Task Form Variables Here
+    parser.add_argument("--hostname", default="${ops_udmg_hostname}")
+    parser.add_argument("--port", default="${ops_udmg_port}")
+    parser.add_argument("--sftpusername", default="${_credentialUser('${ops_udmg_sftpcredential}')}")
+    parser.add_argument("--sftppassword", default="${_credentialPwd('${ops_udmg_sftpcredential}')}")
+    parser.add_argument("--remotefile", default=r"${ops_udmg_remotefile}")
+    parser.add_argument("--localfile", default=r"${ops_udmg_localfile}")
+    parser.add_argument("--transfermode", default=r"${ops_udmg_transfermode}")
+    parser.add_argument("--retrylimit", default="${ops_udmg_retrylimit}")
+    parser.add_argument("--retryinterval", default="${ops_udmg_retryinterval}")
+    parser.add_argument("--host", default="${ops_udmg_host}")    
+    parser.add_argument("--domain", default="${ops_udmg_domain}")
+    parser.add_argument("--username", default="${_credentialUser('${ops_udmg_credential}')}")
+    parser.add_argument("--password", default="${_credentialPwd('${ops_udmg_credential}')}") 
+    # ## --&gt;
+    parser.add_argument("--loglevel", default="${ops_udmg_loglevel}")
+    global args
+    args=parser.parse_args()
+    # -- Setup Logging
+    numeric_level = getattr(logging, args.loglevel.upper(), None)
+    logging.basicConfig(format='%(asctime)-15s - %(levelname)-8s - %(message)s', level=numeric_level)
+    # -- Print Paramater Values
+    logging.debug("Executing version {0} with the following parameters : {1}".format(version, args))
+# --
+
+# ## --&gt; Functions Go Here
+# -- Logon to UDMG server
+def UdmgLogon():
+    logging.info("Accessing UDM Gateway server")
+    # Setup API data
+    udmg_url = args.host + "/rest/management/login"
+    udmg_data = {'username': args.username, 'password': args.password}
+    # Call API
+    global udmg_session
+    udmg_session = requests.session()
+    UdmgLogon = udmg_session.post(udmg_url, json=udmg_data)
+    if(UdmgLogon.ok):
+        logging.info("UDM Gateway Login Successful for User {0}".format(args.username))
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgLogon.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgLogon.text))
+        sys.exit(1)
+# --
+# -- Create Temporary UDM Gateway Trigger
+def UdmgCreateTrigger():
+    global udmg_trigger
+    udmg_trigger = uuid.uuid1()
+    logging.info("Creating Temporary UDM Gateway Trigger")
+    # Setup API Data
+    udmg_url = args.host + "/rest/management/triggers/" + args.domain
+    udmg_data = {
+        "name": udmg_trigger.int,
+        "description":'Temporary Trigger Created by Universal Controller',
+        "eventType":'com.jscape.inet.mft.common.CurrentTimeEvent',
+        "expressionString":'',
+        "enabled":'false',
+        "contexts": [
+            {
+                "actionClass": "com.jscape.inet.mft.workflow.actions.SftpFileDownloadAction",
+                "parametersMap": {
+                    "Hostname": args.hostname,
+                    "Port": args.port,
+                    "Timeout": "30",
+                    "Username": args.sftpusername,
+                    "Password": args.sftppassword,
+                    "PrivateKeyFile": "",
+                    "PrivateKeyFilePassword": "",
+                    "HostKey": "",
+                    "RemoteFile": args.remotefile,
+                    "LocalFile": args.localfile,
+                    "TransferMode": args.transfermode,
+                    "RetryLimit": args.retrylimit,
+                    "RetryInterval": args.retryinterval,
+                    "UploadBufferSize": "4",
+                    "DownloadBufferSize": "4",
+                    "UseAdaptiveConnection": "false",
+                    "StartSubsystemReplyRequired": "false",
+                    "DebugFile": "",
+                    "Priority": "1",
+                    "TriggerErrorMessage": "",
+                    "LogAction": "true"
+                },
+                "notes": "",
+            }
+        ],
+        "allowErrorEvent": 'true',
+        "enabled": 'false',
+        "asynchronous": 'false',
+        "asynchronousActions": 'false',
+        "ignoredDomainState": "STOPPED",
+        "tags": [],
+    }
+    # Call API
+    UdmgCreateTrigger = udmg_session.post(udmg_url, json=udmg_data)
+    if(UdmgCreateTrigger.ok):
+        logging.info("UDM Gateway Trigger = {0}".format(udmg_trigger.int))
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgCreateTrigger.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgCreateTrigger.text))
+        sys.exit(1)
+# --
+# -- Run Temporary UDM Gateway Trigger
+def UdmgRunTrigger():
+    logging.info("Run Temporary UDM Gateway Trigger")
+    # Setup API data
+    udmg_url = args.host + "/rest/management/triggers/" + args.domain + "/" + str(udmg_trigger.int) + "/run"
+    udmg_data = {
+    }
+    # Call API
+    UdmgRunTrigger = udmg_session.post(udmg_url, json=udmg_data)
+    if(UdmgRunTrigger.ok):
+        logging.info("UDM Gateway Run Trigger Sucessful, Trigger = {0}".format(udmg_trigger.int))
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgRunTrigger.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgRunTrigger.text))
+        sys.exit(1)
+# --
+# -- Get Temporary UDM Gateway Trigger Status
+def UdmgGetStatus():
+    logging.info("Retrieving Temporary Trigger Status")
+    # Setup API data
+    udmg_url = args.host + "/rest/management/trigger-states/" + args.domain
+    # Loop to Get Trigger Status
+    status_complete = "n"
+    while status_complete == "n":
+        # Call API
+        UdmgGetStatus = udmg_session.get(udmg_url)
+        status = UdmgGetStatus.json()
+        if(UdmgGetStatus.ok):
+            # Loop Through Status
+            for item in status:
+                if item['triggerName'] == str(udmg_trigger.int):
+                    if (item['status'] == "RUNNING") or (item['status'] == "QUEUED"):
+                        time.sleep(3)
+                    else:
+                        status_complete = "y"
+                        if item['status'] == "FAILED":
+                            logging.error("Trigger FAILED, Trigger = {0}".format(udmg_trigger.int))
+                            UdmgDeleteTrigger()
+                            UdmgGetLog()
+                            UdmgLogoff()
+                            sys.exit(9)
+                        elif item['status'] == "COMPLETED":
+                            logging.info("Trigger COMPLETED, Trigger = {0}".format(udmg_trigger.int))
+                            UdmgDeleteTrigger()
+                            UdmgGetLog()
+                        else:
+                            logging.error("Unexpected Trigger Status {0}, Trigger = {1}".format(item['status'], udmg_trigger.int))
+                            UdmgDeleteTrigger()
+                            UdmgGetLog()
+                            UdmgLogoff()
+                            sys.exit(12)
+        else:
+            logging.critical("Failed with code : {0}".format(UdmgGetStatus.status_code))
+            logging.critical("Failed with reason : {0}".format(UdmgGetStatus.text))
+            sys.exit(1)
+# --
+# -- Delete Temporary UDM Gateway Trigger
+def UdmgDeleteTrigger():
+    logging.info("Deleting UDM Gateway Temporary Trigger")
+    # Setup API data
+    udmg_url = args.host + "/rest/management/triggers/" + args.domain +  "/" + str(udmg_trigger.int)
+    # Call API
+    UdmgDeleteTrigger = udmg_session.delete(udmg_url)
+    if(UdmgDeleteTrigger.ok):
+        logging.info("Trigger {0} Deleted".format(udmg_trigger.int))
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgDeleteTrigger.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgDeleteTrigger.text))
+        sys.exit(1)
+# --
+# -- Get Temporary UMD Gateway Trigger Log
+def UdmgGetLog():
+    logging.info("Get Temporary UMD Gateway Trigger Log")
+    # Start Log Search
+    time.sleep(5)
+    # Setup API data
+    udmg_url = args.host + "/rest/management/log-searches/" + args.domain +  "/start" 
+    udmg_data = {
+        "name": udmg_trigger.int,
+        "maxRecords": '100',
+        "date": str(log_date.strip('"')),
+        "startDate": str(log_date.strip('"')),
+        "endDate": 'null',
+        "criteria": 'ServerMessage # "' + str(udmg_trigger.int) + '"',
+        "error": 'string'
+    }    
+    # Call API
+    UdmgGetLog = udmg_session.put(udmg_url, json=udmg_data)
+    if(UdmgGetLog.ok):
+        logging.info("UDM Gateway Start Log Search Sucessful")
+        time.sleep(3)
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgGetLog.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgGetLog.text))
+        sys.exit(1)
+    # Check Log Search Complete
+    logging.info("UDM Gateway Checking if Log Search Complete")
+    # Setup API data
+    udmg_url = args.host + "/rest/management/log-searches/" + args.domain
+    # Loop to Check Log Search 100% Complete
+    search_complete = "n"
+    while search_complete == "n":
+        # Call API
+        UdmgGetLog = udmg_session.get(udmg_url)
+        search = UdmgGetLog.json()
+        if(UdmgGetLog.ok):
+            # Loop Through Status
+            for item in search:
+                if item['name'] == str(udmg_trigger.int):
+                    if item['progress'] == 100:
+                        logging.info("UDM Gateway Log Search Complete")
+                        search_complete = "y"
+                    else:
+                        time.sleep(3)
+        else:
+            logging.critical("Failed with code : {0}".format(UdmgGetLog.status_code))
+            logging.critical("Failed with reason : {0}".format(UdmgGetLog.text))
+            sys.exit(1)
+    # Get Log Search Result
+    # Setup API data
+    udmg_url = args.host + "/rest/management/log-searches/" + args.domain + "/" + str(udmg_trigger.int) + "/100"
+    udmg_headers = {'content-type': 'text/plain'}
+    # Call API
+    UdmgGetLog = udmg_session.get(udmg_url, headers=udmg_headers)
+    if(UdmgGetLog.ok):
+        logging.info("UDM Gateway Retrieve Log Successful")
+        print(str(UdmgGetLog.text))
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgGetLog.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgGetLog.text))
+        sys.exit(1)
+    # Delete Log Search
+    # Setup API data
+    udmg_url = args.host + "/rest/management/log-searches/" + args.domain + "/" + str(udmg_trigger.int)
+    # Call API
+    UdmgGetLog = udmg_session.delete(udmg_url)
+    if(UdmgGetLog.ok):
+        logging.info("UDM Gateway Delete Log Search Successful")
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgGetLog.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgGetLog.text))
+        sys.exit(1)
+# --
+# -- Close UDM Gateway Session
+def UdmgLogoff():
+    logging.info("Closing UDM Gateway Session")
+    # Setup API data
+    udmg_url = args.host + "/rest/management/logout"
+    # Call API
+    UdmgLogoff = udmg_session.post(udmg_url)
+    if(UdmgLogoff.ok):
+        logging.info("UDM Gateway Logoff Successful for User {0}".format(args.username))
+    else:
+        logging.critical("Failed with code : {0}".format(UdmgLogoff.status_code))
+        logging.critical("Failed with reason : {0}".format(UdmgLogoff.text))
+        sys.exit(1)
+# --
+# --&gt;
+
+# -- Execute
+main()</script><agent_type>1</agent_type><script_type_windows>uapy</script_type_windows><environment/><agent_cluster/><elevate_user>false</elevate_user><exit_code_output/><name>Sftp File Download</name><exit_codes>0</exit_codes><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-08-18 14:10:05</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>4902b68c6f0a46409751f78958e312d2</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:10:05</sys_created_on><field_value>22</field_value><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length>8</field_length><form_end_row>false</form_end_row><label>Sftp Port</label><int_field_max/><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>intField1</field_mapping><name>port</name><field_regex/><field_type>2</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-12-01 17:16:10</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>4b9edc87698948a68a02b00696f8f0d0</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:08:33</sys_created_on><field_value>http://hostname:11880</field_value><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>UDMG Host</label><int_field_max/><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>URL For UDMG server</hint><field_mapping>textField1</field_mapping><name>host</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-08-18 14:19:14</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>4ff7cb0de410420faed7a7dba21cf791</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:15:09</sys_created_on><field_value>Binary</field_value><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Transfer Mode</label><int_field_max/><sequence>8</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField1</field_mapping><name>transfermode</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2018-08-09 16:08:44</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>6f1afe69106c4179ab651f7ece4c6040</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2018-08-09 16:08:44</sys_created_on><field_value>Info</field_value><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Logging Level</label><int_field_max/><sequence>11</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Controls messages issued from the Universal Task Script</hint><field_mapping>choiceField2</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2017-08-18 14:11:45</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>7f040f40fc234d8bb15038615725689e</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:11:45</sys_created_on><field_value/><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>3</form_col_span><field_length>255</field_length><form_end_row>false</form_end_row><label>Local Filename</label><int_field_max/><sequence>7</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField5</field_mapping><name>localfile</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2017-08-18 14:11:26</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>7f629301c00a4503a2dbb6325bdee810</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:11:26</sys_created_on><field_value/><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>3</form_col_span><field_length>255</field_length><form_end_row>false</form_end_row><label>Remote Filename</label><int_field_max/><sequence>6</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField4</field_mapping><name>remotefile</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-08-18 14:16:11</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>857b130940544dd4a0ac3d741b7cfb9c</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:12:39</sys_created_on><field_value>60</field_value><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Retry Interval</label><int_field_max/><sequence>10</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>intField3</field_mapping><name>retryinterval</name><field_regex/><field_type>2</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-08-18 14:09:02</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>c5ef5399c02a4d038dfdf05e11d993ba</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:09:02</sys_created_on><field_value/><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>UDMG Credential</label><int_field_max/><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField1</field_mapping><name>credential</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2017-08-18 14:09:41</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>d71c0e995be9496eaf817224a805829c</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:09:41</sys_created_on><field_value/><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>2</form_col_span><field_length/><form_end_row>false</form_end_row><label>Sftp Host</label><int_field_max/><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField3</field_mapping><name>hostname</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2017-08-18 14:16:11</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>da340d8a224d4e8587cea9a03bcf8fd3</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:12:14</sys_created_on><field_value>0</field_value><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Retry Limit</label><int_field_max/><sequence>9</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>intField2</field_mapping><name>retrylimit</name><field_regex/><field_type>2</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2017-08-18 14:10:42</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>dff619709cb140b4b252f6d03750d8ed</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:10:42</sys_created_on><field_value/><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Sftp Credential</label><int_field_max/><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField2</field_mapping><name>sftpcredential</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-08-18 14:09:20</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>f516bc33fef5404682cfda5f3a82b0ff</sys_id><require_if_field_value/><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:09:20</sys_created_on><field_value/><sys_created_by>ccocksedge</sys_created_by><int_field_min/><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>UDMG Domain</label><int_field_max/><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField2</field_mapping><name>domain</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6f1afe69106c4179ab651f7ece4c6040</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>17f5a103c9574f35aa804e996429750c</sys_id><sequence>2</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2018-08-09 16:09:07</sys_created_on><field_value_label>Debug</field_value_label><field_value>Debug</field_value><sys_updated_on>2018-08-09 16:09:07</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6f1afe69106c4179ab651f7ece4c6040</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>359e0ade5b4a454d9a1d1fc4e4bb0866</sys_id><sequence>0</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2018-08-09 16:08:53</sys_created_on><field_value_label>None</field_value_label><field_value>None</field_value><sys_updated_on>2018-08-22 14:10:56</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6f1afe69106c4179ab651f7ece4c6040</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>393abdc56f164c2892bb423941a51b74</sys_id><sequence>3</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2018-08-09 16:09:14</sys_created_on><field_value_label>Warning</field_value_label><field_value>Warning</field_value><sys_updated_on>2018-08-09 16:09:14</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4ff7cb0de410420faed7a7dba21cf791</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>6e6ac1bd277f4281b716341fba566638</sys_id><sequence>1</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:15:54</sys_created_on><field_value_label>Binary</field_value_label><field_value>binary</field_value><sys_updated_on>2017-08-18 14:15:54</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4ff7cb0de410420faed7a7dba21cf791</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>89d7492b5ef8436ca07aabf6aadc33d2</sys_id><sequence>2</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:16:01</sys_created_on><field_value_label>Auto</field_value_label><field_value>auto</field_value><sys_updated_on>2017-08-18 14:16:01</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6f1afe69106c4179ab651f7ece4c6040</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>93a4b150a8374073a6b8217746ce7c89</sys_id><sequence>1</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2018-08-09 16:09:00</sys_created_on><field_value_label>Info</field_value_label><field_value>Info</field_value><sys_updated_on>2018-08-09 16:09:00</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4ff7cb0de410420faed7a7dba21cf791</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>975f9bff3b914b11bca6a8ad01afdf40</sys_id><sequence>0</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2017-08-18 14:15:29</sys_created_on><field_value_label>Ascii</field_value_label><field_value>ascii</field_value><sys_updated_on>2017-08-18 14:15:29</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6f1afe69106c4179ab651f7ece4c6040</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>b77a64a25a0d4662b56730ebe2838f79</sys_id><sequence>5</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2018-08-09 16:09:28</sys_created_on><field_value_label>Critical</field_value_label><field_value>Critical</field_value><sys_updated_on>2018-08-09 16:09:28</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6f1afe69106c4179ab651f7ece4c6040</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>c8b33eb5d51942988a6713beddd1967a</sys_id><sequence>4</sequence><sys_updated_by>ccocksedge</sys_updated_by><sys_created_on>2018-08-09 16:09:20</sys_created_on><field_value_label>Error</field_value_label><field_value>Error</field_value><sys_updated_on>2018-08-09 16:09:20</sys_updated_on><sys_created_by>ccocksedge</sys_created_by><universal_template_id>ae4a7cc6fd644e458c1326b72e48c8b7</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
