@@ -1,5 +1,5 @@
 # udm-gw-sftp-file-download
-Universal Task to automate SFTP File Download activities in UDM Gateway.
+UDM Script to automate SFTP File Download activities in UDM Gateway.
 
 # Disclaimer
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
